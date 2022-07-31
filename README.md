@@ -1,4 +1,4 @@
-### Hi there 👋,  I’m @clneitzke 
+### Hi there 👋,  I’m @cneitzke 
 
 - 🔭 I’m interested in ✨Swift✨, Objective-C, C#, ✨dotNet✨, C++, Software Engineer, Agile and Databases
 - 🌱 I’m currently learning Swift and dotNeturrently learning Swift and dotNet
